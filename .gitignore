@@ -5,5 +5,4 @@ node_modules/
 *.log
 *.orig
 /target/coverage
-/public
 bundle.result.json

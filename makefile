@@ -9,7 +9,7 @@ SERVER_JS = server.js
 DEFAULT_JSON = default.json
 
 GIT_IGNORE =.gitignore
-GIT_IGNORE_LST = *.swp *.out node_modules/ /bower_components/ *.log *.orig /target/coverage /public bundle.result.json
+GIT_IGNORE_LST = *.swp *.out node_modules/ /bower_components/ *.log *.orig /target/coverage bundle.result.json
 
 init : 
 	mkdir -p $(PUBLIC_DIR)
